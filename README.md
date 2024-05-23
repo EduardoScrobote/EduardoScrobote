@@ -1,37 +1,20 @@
-<h1 align="left">Olá, 👋 Me chamo Eduardo Scrobote</h1>
+Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Erik Lopes
+==================================================================================================================================
 
-###
+Engenheiro de Segurança | AppSec
+-----------------------
 
-<h3 align="left">Tenho 20 anos de Idade. Por ter uma paixão por tecnologia eu decidi me dedicar ao mercado de desenvolvimento. Comecei a estudar Desenvolvimento de Software em dezembro de 2022, atualmente estou desenvolvendo minhas habilidades em ReactJS. <br><br>Até o momento atual eu já dominei os conceitos de JavaScript, Html5, CSS3, React, TypeScript, NodeJS, SQL.<br><br>Estou focado em virar um especialista na area de desenvolvimento de software, e para isso estou disposto a me dedicar incondicionalmente!</h3>
+* 🌍  Eu moro em São José dos Pinhais, Paraná.
+* ✉️  Você pode me contatar em: [erik.lopesoliveira2019@gmail.com](mailto:erik.lopesoliveira2019@gmail.com)
 
-###
+### Rede Sociais
 
-<p align="left">✨ Estou desenvolvendo um Projeto com ReactTS + NodeJS + MySql + Tailwind<br>📚 Atualmente estou estudando NodeJS e MySql<br>🎲Eu amo Café e Códigos</p>
+<p align="left"> <a href="https://www.github.com/eriklopess" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eriklopesdeoliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-###
+### Badges
 
-<h2 align="left">Atualmente eu uso as tecnologias</h2>
+<b>GitHub Stats</b>
 
-###
+<a href="http://www.github.com/eriklopess"><img src="https://github-readme-stats.vercel.app/api?username=eriklopess&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="eriklopess's GitHub stats" /></a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EduardoScrobote/count.svg?"  />
-</div>
-
-###
+<a href="https://github.com/eriklopess" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriklopess&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
