@@ -15,6 +15,6 @@ Desenvolvedor Front-End | Mobile
 
 <b>GitHub Stats</b>
 
-<a href="https://github.com/EduardoScrobote"><img src="https://github-readme-stats.vercel.app/api?username=eriklopess&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eduardo's GitHub stats" /></a>
+<a href="https://github.com/EduardoScrobote"><img src="https://github-readme-stats.vercel.app/api?username=EduardoScrobote&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eduardo's GitHub stats" /></a>
 
 <a href="https://github.com/EduardoScrobote" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoScrobote&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
