@@ -19,4 +19,4 @@ Desenvolvedor Front-End e Mobile
 
 <a href="https://github.com/EduardoScrobote" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoScrobote&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b href="https://portfolio-eduardoscrobote.vercel.app">Portfólio</b>
+<b href="https://portfolio-eduardoscrobote.vercel.app" src="https://portfolio-eduardoscrobote.vercel.app">Portfólio</b>
