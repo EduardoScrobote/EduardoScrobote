@@ -10,11 +10,4 @@ Desenvolvedor Front-End e Mobile
 ### Rede Sociais
 
 <p align="left"> <a href="https://github.com/EduardoScrobote" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eduardo-scrobote-393b3425b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>GitHub Stats</b>
-
-<a href="https://github.com/EduardoScrobote" align="left">GitHub</a>
-
 <a href="https://portfolio-eduardoscrobote.vercel.app" src="https://portfolio-eduardoscrobote.vercel.app">Portfólio</a>
